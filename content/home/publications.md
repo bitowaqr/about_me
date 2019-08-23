@@ -48,10 +48,20 @@ subtitle = ""
 
   * Schneider PP, Geraedts M. Staffing and the incidence of pressure ulcers in German hospitals: A multicenter cross-sectional study. Nursing Health Sciences. 2016. https://dx.doi.org/10.1111/nhs.12292; Open Access version: http://dx.doi.org/10.4126/FRL01-006402986
 
-## Other publications
+## Other publications and work samples
 
-  * __Preprint:__ Schneider PP, van Gool CJAW, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Preprint: Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. bioRxiv. 2018. https://doi.org/10.1101/440867
-
-  * Schneider PP, Paget J, Spreeuwenberg P, Barnett D, van Gool C. Preprint: Using Wikipedia and Google data to estimate near real-time influenza incidence in Germany: A Tutorial in R . 2017. https://projectflutrend.github.io/ ; Conference poster for WEON 2018: https://goo.gl/gudXJv
-
-  * Schneider PP, Paget J, Spreeuwenberg P, van Gool C. ’Wikipedia Flu Trend.alpha’ – An R- based platform to explore the utility of Wikipedia page view data for real-time surveillance of influenza in different countries [Deprecated]. 2017. https://github.com/projectflutrend/pft
+  * __Working paper__: Schneider PP. Social tariffs and democratic choice - do population-based health state values reflect the will of the people? Medrxiv. 2019.doi: tbc
+  
+  * __Preprint__: Schneider PP, Smith RA, Bullas AM, Bayley T, Haake SSJ, Brennan A, Goyder E. Where should new parkrun events be located? Modelling the potential impact of 200 new events on socio-economic inequalities in access and participation. MedRxiv. 2019. doi: tbc
+  
+  * __Website__: Schneider PP, Smith RA, Bullas AM, Bayley T, Haake SSJ, Brennan A, Goyder E. Identifying Optimal Locations for Maximising Access to parkun – Interactive online map. 2019. Available at: http://iol-map.shef.ac.uk/
+  
+  * __Website__: Schneider PP, Smith R, Brennan A, Goyder E. Parkrun: Who has access, and who participates? - Analysis and policy recommendations. 2018. Available at: https://bitowaqr.github.io/
+  
+  * __Preprint__: Schneider PP, van Gool CJ, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. bioRxiv. 2018. doi: https:// doi.org/10.1101/440867 
+  
+  * __Tutorial__: Schneider PP, Paget J, Spreeuwenberg P, Barnett D, van Gool C. Using Wikipedia and Google data to estimate near real- time influenza incidence in Germany: A Tutorial in R [Preprint]. 2017. Available at: https://projectflutrend.github.io/
+  
+  * __Thesis__: Schneider PP. Association between nurse and physician staffing and the quality of care in German hospitals [in German]. 2017. Available at: https://doi.org/10.4126/FRL01-006405375
+  
+  * __Poster presentation__: Schneider PP, Kraska R, Geraedts M. Staffing and pressure ulcer prevention in hospitals [in German]. 59th Congress of the Society of Social Medicine and Prevention (DGSMP). 2016. Poster available at: https://github.com/bitowaqr/pft.2/raw/master/weon.jpg; Abstract available at: https://dx.doi.org/10.1055/s-0036-1586694
