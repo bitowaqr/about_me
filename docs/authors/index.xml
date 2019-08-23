@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | </title>
+    <link>https://bitowaqr.github.io/about_me/authors/</link>
+      <atom:link href="https://bitowaqr.github.io/about_me/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2019</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bitowaqr.github.io/about_me/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://bitowaqr.github.io/about_me/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://bitowaqr.github.io/about_me/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/about_me/authors/admin/</guid>
+      <description>
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;about-me&#34;&gt;about me&lt;/h2&gt;
+
+&lt;p&gt;I am a PhD student in the Wellcome Trust docotral training center for Public Health, Economics, and Decision Science at the School of Health and Related Research in Sheffield.&lt;/p&gt;
+
+&lt;p&gt;I initially trained as a Medical Doctor but soon became more interested in research. I completed my doctoral thesis on the relationship between staffing and quality of care in hospitals at the Institute for Health Systems Research at the University of Witten/Herdecke in Germany. Subsequently, I did a research masters in health sciences, with a focus on epidemiology and health technology assessment, at Maastricht University in the Netherlands. Before I joined ScHARR in September 2018, I briefly worked as a clinical trial investigator and interned at the WHO in Geneva, Switzerland.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
