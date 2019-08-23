@@ -1,8 +1,13 @@
 ---
 title: Dutch flu trend
-summary: Predicting Influenza-like illness in the Netherlands in near real time, using Google search queries and statistical learning.
-
+summary: A study of digital epidemiology methods to monitor influenza in near real-time, using online data and statistical learning.
+date: "2018-11-14T00:00:00Z"
+weight: 30
 links:
+- icon: 
+  icon_pack: fab
+  name: More details
+  url: "project/dutch-flu-trend"
 - icon: 
   icon_pack: fab
   name: Pre-Print
@@ -11,6 +16,15 @@ links:
   icon_pack: fab
   name: Code & data repo
   url: "https://github.com/bitowaqr/DutchFluTrend"
+- icon:
+  icon_pack: fab
+  name: Conference poster
+  url: "https://github.com/bitowaqr/pft.2/raw/master/weon.jpg"
+- icon:
+  icon_pack: fab
+  name: R tutorial
+  url: "https://projectflutrend.github.io/"
+
 
 image:
   caption: DutchFluTrend
@@ -25,7 +39,9 @@ Schneider PP<sup>1,2</sup>, van Gool CJAW<sup>3</sup>, Spreeuwenberg P<sup>4</su
 <sup>2</sup> School of Health and Related Research, University of Sheffield; 
 <sup>3</sup> Nivel (Netherlands Institute of Health Service Research);  
 <sup>4</sup> School CAPHRI, Maastricht University
-<p></small>
+</p></small>
+
+<br>
 
 ##### In the first stage of the project, I investigated whether Wikipedia page views were correlated with the incidence of influenza in several countries around the world. 
 
@@ -33,7 +49,7 @@ Schneider PP<sup>1,2</sup>, van Gool CJAW<sup>3</sup>, Spreeuwenberg P<sup>4</su
 
 <br> 
 
-##### 2. Subsequently, I included Google search queries and used several statical learning techniques to estimate the incidence of influenza in Germany in near real time.
+##### Subsequently, I included Google search queries and used several statical learning techniques to estimate the incidence of influenza in Germany in near real time.
 
   * [Conference poster for WEON 2018](https://github.com/bitowaqr/pft.2/raw/master/weon.jpg) 
   * [A tutorial on digital epidemiology in R](https://projectflutrend.github.io/) 

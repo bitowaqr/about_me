@@ -32,11 +32,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/bitowaqr
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3552-1087
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/CV_PaulSchneider.pdf
 
 ---
 <br>

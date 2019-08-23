@@ -43,12 +43,12 @@ subtitle = ""
  css_class = ""
 +++
 
-##  research interests
+##  Research interests
 
-  I am interested in normative and theoretical aspects of economic evaluations and the valuation of health. More specifically, I study the concept of societal health state values, drawing methods and perspectives from various field, including health economics, public health as well as social choice, game, and democratic theory. 
+  I am interested in normative and theoretical aspects of economic evaluations and the valuation of health. More specifically, I study the concept of social health state values, drawing methods and perspectives from various fields, including health economics and public health as well as social choice, game, and democratic theory. 
   
   __PhD topic__: *Social tariffs, preference heterogeneity, and collective choice: how to derive societal health state values that reflect the will of the people?*
   __Supervisors:__ Prof. John Brazier and Prof. Ben van Hout
 
-  Apart from that, I have wide-reaching research interests in open science, digital epidemiology, prediction modelling, real-world evidence, health policy, and decision modelling.  
+  Apart from that, I have wide-reaching research interests in open science, digital epidemiology, prediction modelling, real-world data and evidence, health policy, and decision modelling, and I am happy to collaborate on interdisciplinary research.
   

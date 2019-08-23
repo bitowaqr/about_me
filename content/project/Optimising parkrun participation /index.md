@@ -1,7 +1,7 @@
 ---
 title: Optimising parkrun participation 
-
 summary: A study of the social and geographic disparities in the access to and the participation in parkrun events in England. The project aimed to support parkrun's planned expansion, by providing recommendations for 200 new event locations, maximising access for deprieved communities.  
+weight: 20
 
 links:
 - icon: 

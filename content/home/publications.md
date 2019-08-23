@@ -42,15 +42,15 @@ subtitle = ""
  css_class = ""
 +++
 
-# publications
+# Publications
 
-## journal articles
+## Journal articles
 
-  * Schneider PP, Geraedts M. Staffing and the incidence of pressure ulcers in German hospitals: A multicenter cross- sectional study. Nursing Health Sciences. 2016. https://dx.doi.org/10.1111/nhs.12292; Open Access version: http://dx.doi.org/10.4126/FRL01-006402986
+  * Schneider PP, Geraedts M. Staffing and the incidence of pressure ulcers in German hospitals: A multicenter cross-sectional study. Nursing Health Sciences. 2016. https://dx.doi.org/10.1111/nhs.12292; Open Access version: http://dx.doi.org/10.4126/FRL01-006402986
 
-## other publications
+## Other publications
 
-  * Schneider PP, van Gool CJAW, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Preprint: Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. bioRxiv. 2018. https://doi.org/10.1101/440867
+  * __Preprint:__ Schneider PP, van Gool CJAW, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Preprint: Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. bioRxiv. 2018. https://doi.org/10.1101/440867
 
   * Schneider PP, Paget J, Spreeuwenberg P, Barnett D, van Gool C. Preprint: Using Wikipedia and Google data to estimate near real-time influenza incidence in Germany: A Tutorial in R . 2017. https://projectflutrend.github.io/ ; Conference poster for WEON 2018: https://goo.gl/gudXJv
 
