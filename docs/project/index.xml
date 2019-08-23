@@ -5,7 +5,7 @@
     <link>https://bitowaqr.github.io/about_me/project/</link>
       <atom:link href="https://bitowaqr.github.io/about_me/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Paul Schneider CC-BY 2019</copyright><lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://bitowaqr.github.io/about_me/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>Social tariffs and democratic choice</title>
+      <link>https://bitowaqr.github.io/about_me/project/dem_soc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/about_me/project/dem_soc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimising parkrun participation</title>
+      <link>https://bitowaqr.github.io/about_me/project/optimising-parkrun-participation-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://bitowaqr.github.io/about_me/project/optimising-parkrun-participation-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dutch flu trend</title>
       <link>https://bitowaqr.github.io/about_me/project/dutch-flu-trend/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://bitowaqr.github.io/about_me/project/dutch-flu-trend/</guid>
       <description>
 
@@ -27,7 +43,9 @@
 &lt;sup&gt;2&lt;/sup&gt; School of Health and Related Research, University of Sheffield;
 &lt;sup&gt;3&lt;/sup&gt; Nivel (Netherlands Institute of Health Service Research);&lt;br /&gt;
 &lt;sup&gt;4&lt;/sup&gt; School CAPHRI, Maastricht University
-&lt;p&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;in-the-first-stage-of-the-project-i-investigated-whether-wikipedia-page-views-were-correlated-with-the-incidence-of-influenza-in-several-countries-around-the-world&#34;&gt;In the first stage of the project, I investigated whether Wikipedia page views were correlated with the incidence of influenza in several countries around the world.&lt;/h5&gt;
 
@@ -37,7 +55,7 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;2-subsequently-i-included-google-search-queries-and-used-several-statical-learning-techniques-to-estimate-the-incidence-of-influenza-in-germany-in-near-real-time&#34;&gt;2. Subsequently, I included Google search queries and used several statical learning techniques to estimate the incidence of influenza in Germany in near real time.&lt;/h5&gt;
+&lt;h5 id=&#34;subsequently-i-included-google-search-queries-and-used-several-statical-learning-techniques-to-estimate-the-incidence-of-influenza-in-germany-in-near-real-time&#34;&gt;Subsequently, I included Google search queries and used several statical learning techniques to estimate the incidence of influenza in Germany in near real time.&lt;/h5&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/bitowaqr/pft.2/raw/master/weon.jpg&#34; target=&#34;_blank&#34;&gt;Conference poster for WEON 2018&lt;/a&gt;&lt;/li&gt;
@@ -60,10 +78,10 @@
     </item>
     
     <item>
-      <title>Optimising parkrun participation</title>
-      <link>https://bitowaqr.github.io/about_me/project/optimising-parkrun-participation-/</link>
+      <title>Cost trajectories</title>
+      <link>https://bitowaqr.github.io/about_me/project/cost-trajectories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bitowaqr.github.io/about_me/project/optimising-parkrun-participation-/</guid>
+      <guid>https://bitowaqr.github.io/about_me/project/cost-trajectories/</guid>
       <description></description>
     </item>
     
