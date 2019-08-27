@@ -11,7 +11,8 @@ links:
 - icon: world
   icon_pack: fab
   name: Interactive online map
-  url: http://iol-map.shef.ac.uk
+  url: https://iolmap.shinyapps.io/parkrun/
+  <!-- url: http://iol-map.shef.ac.uk-->
 - icon: 
   icon_pack: fab
   name: Code & data repo

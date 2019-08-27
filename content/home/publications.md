@@ -58,7 +58,7 @@ subtitle = ""
   
   * __Website__: Schneider PP, Smith R, Brennan A, Goyder E. Parkrun: Who has access, and who participates? - Analysis and policy recommendations. 2018. Available at: https://bitowaqr.github.io/
   
-  * __Preprint__: Schneider PP, van Gool CJ, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. bioRxiv. 2018. doi: https:// doi.org/10.1101/440867 
+  * __Preprint__: Schneider PP, van Gool CJ, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. bioRxiv. 2018. doi: https://doi.org/10.1101/440867  
   
   * __Tutorial__: Schneider PP, Paget J, Spreeuwenberg P, Barnett D, van Gool C. Using Wikipedia and Google data to estimate near real- time influenza incidence in Germany: A Tutorial in R [Preprint]. 2017. Available at: https://projectflutrend.github.io/
   
