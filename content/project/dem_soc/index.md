@@ -7,7 +7,7 @@ links:
 - icon: 
   icon_pack: ai
   name: Working paper
-  url: biorxiv
+  url: "files/c1.pdf"
 
 image:
   caption: framework
