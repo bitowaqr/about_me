@@ -44,6 +44,6 @@ social:
 
 ## about me
 
-I am a PhD student in the Wellcome Trust docotral training center for Public Health, Economics, and Decision Science at the School of Health and Related Research in Sheffield.
+I am currently a PhD student in the Wellcome Trust doctoral training center for public health, economics, and decision science at the School of Health and Related Research (ScHARR), University of Sheffield.
 
-I initially trained as a Medical Doctor but soon became more interested in research. I completed my doctoral thesis on the relationship between staffing and quality of care in hospitals at the Institute for Health Systems Research at the University of Witten/Herdecke in Germany. Subsequently, I did a research masters in health sciences, with a focus on epidemiology and health technology assessment, at Maastricht University in the Netherlands. Before I joined ScHARR in September 2018, I briefly worked as a clinical trial investigator and interned at the WHO in Geneva, Switzerland.
+Before I joined ScHARR in September 2018, I did a research masters in health sciences, with a focus on epidemiology and health technology assessment, at Maastricht University in the Netherlands. During my studies, I also led a project in the field of digital epidemiology at the Netherlands Institute for Health Services Research. Prior to this, I graduated as a physician and completed a doctoral degree in medicine at the Institute for Health Systems Research, University of Witten/Herdecke in Germany. Between studying, I have worked as a clinical trial investigator and interned at the WHO in Geneva, Switzerland.
