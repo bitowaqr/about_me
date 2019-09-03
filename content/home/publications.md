@@ -48,9 +48,10 @@ subtitle = ""
 
   * Schneider PP, Geraedts M. Staffing and the incidence of pressure ulcers in German hospitals: A multicenter cross-sectional study. Nursing Health Sciences. 2016. https://dx.doi.org/10.1111/nhs.12292; Open Access version: http://dx.doi.org/10.4126/FRL01-006402986
   
-  * Accepted: Schneider PP, van Gool CJ, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. Eurosurveillance. 2019. Preprint available at: https://doi.org/10.1101/440867  
-
+  
 ## Other research output
+
+  * __Accepted for publication__: Schneider PP, van Gool CJ, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. Eurosurveillance. 2019. Preprint available at: https://doi.org/10.1101/440867  
 
   * __Working paper__: Schneider PP. Social tariffs and democratic choice - do population-based health state values reflect the will of the people? 2019.doi: tbc
   
