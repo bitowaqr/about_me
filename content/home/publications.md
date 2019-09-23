@@ -53,9 +53,9 @@ subtitle = ""
 
   * __Accepted for publication__: Schneider PP, van Gool CJ, Spreeuwenberg P, Hooiveld M, Donker GA, Barnett DJ, Paget J. Using digital epidemiology methods to monitor influenza-like illness in the Netherlands in real-time: the 2017-2018 season. Eurosurveillance. 2019. Preprint available at: https://doi.org/10.1101/440867  
 
-  * __Working paper__: Schneider PP. Social tariffs and democratic choice - do population-based health state values reflect the will of the people? 2019.doi: tbc
+  * __Working paper__: Schneider PP. Social tariffs and democratic choice - do population-based health state values reflect the will of the people? 2019. https://doi.org/10.31235/osf.io/2qvjb
   
-  * __Preprint__: Schneider PP, Smith RA, Bullas AM, Bayley T, Haake SSJ, Brennan A, Goyder E. Where should new parkrun events be located? Modelling the potential impact of 200 new events on socio-economic inequalities in access and participation. MedRxiv. 2019. doi: https://doi.org/10.1101/19004143
+  * __Preprint__: Schneider PP, Smith RA, Bullas AM, Bayley T, Haake SSJ, Brennan A, Goyder E. Where should new parkrun events be located? Modelling the potential impact of 200 new events on socio-economic inequalities in access and participation. MedRxiv. 2019. https://doi.org/10.1101/19004143
   
   * __Website__: Schneider PP, Smith RA, Bullas AM, Bayley T, Haake SSJ, Brennan A, Goyder E. Identifying Optimal Locations for Maximising Access to parkun – Interactive online map. 2019. Available at: https://iolmap.shinyapps.io/parkrun/
   
