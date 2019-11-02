@@ -8,6 +8,11 @@ links:
   name: latent traj modeling in R
   url: https://github.com/bitowaqr/traj
   
+- icon: 
+  icon_pack: ai
+  name: Conference poster (#ISPOREurope)
+  url: "pdf/traj_ispor.pdf"
+  
 
 image:
   caption: traj
