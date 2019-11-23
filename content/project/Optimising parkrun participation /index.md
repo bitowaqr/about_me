@@ -7,16 +7,20 @@ links:
 - icon: 
   icon_pack: fab
   name: Pre-Print
-  url: 
+  url: https://www.medrxiv.org/content/10.1101/19004143v1
 - icon: world
   icon_pack: fab
   name: Interactive online map
-  url: https://iolmap.shinyapps.io/parkrun/
-  <!-- url: http://iol-map.shef.ac.uk-->
+  url: http://iol-map.shef.ac.uk
 - icon: 
   icon_pack: fab
   name: Code & data repo
   url: https://github.com/bitowaqr/iolmap_analysis
+
+- icon: 
+  icon_pack: fab
+  name: Conference Poster (#EPH2019)
+  url: "pdf/eph_poster.pdf"
 
 image:
   caption: iol_map
